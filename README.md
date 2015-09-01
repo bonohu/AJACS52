@@ -1,8 +1,7 @@
-AJACS52
+AJACS56
 =======
-See more at
-https://gist.github.com/bonohu/cf04d6a3aba97b573e49
+See more at https://github.com/AJACS-training/AJACS56/tree/master/bono2
 RおよびBioconductorを使ったバイオデータ解析
 
-Tutorial materials for AJACS at Fuchu. Tokyo, Japan on 20150305
-http://events.biosciencedbc.jp/training/ajacs52
+Tutorial materials for AJACS at Hirosaki, Japan on 20150904.
+http://events.biosciencedbc.jp/training/ajacs56
